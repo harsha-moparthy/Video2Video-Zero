@@ -1,0 +1,1 @@
+accelerate launch  test_vid2vid_zero.py --config configs/car-moving.yaml
